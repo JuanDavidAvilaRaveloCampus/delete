@@ -1,0 +1,62 @@
+body {
+    padding: 10% 2.5%;
+    margin: 0;
+    background-color: #dddddd;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+#title {
+    background-color: #c0c0c0;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#head-1 {
+    background-color: rgb(137, 185, 165);
+}
+#col-1 {
+    background-color: rgb(202, 223, 214);
+}
+
+#head-2 {
+    background-color: rgb(131, 182, 185);
+}
+#col-2  {
+    background-color: rgb(179, 209, 211);
+}
+
+#head-3 {
+    background-color: rgb(137, 163, 185);
+}
+#col-3 {
+    background-color: rgb(202, 211, 223);
+}
+
+#head-4 {
+    background-color: rgb(144, 137, 185);
+}
+#col-4 {
+    background-color: rgb(213, 202, 223);
+}
+
+#head-5 {
+    background-color: rgb(163, 137, 185);
+}
+#col-5 {
+    background-color: rgb(202, 223, 214);
+}
